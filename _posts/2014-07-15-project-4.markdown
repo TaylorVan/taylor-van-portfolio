@@ -2,10 +2,8 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: blender_plugin.PNG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Blender Plugin
+description: A blender plugin that does a number of useful things. It can export visible meshes & animations to a folder with one click, import textures and setup material shaders, apply textures to selected polygons using an atlas, perform UV transformations such as rotations and mirroring, store vertex colours in a secondary UV channel, and more!
 ---
