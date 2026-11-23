@@ -3,6 +3,6 @@ layout: default
 modal-id: 2
 img: downward_dog.PNG
 alt: image-alt
-category: Game Jam
-description: A fast-paced digging game where you play as a dog digging for bones and avoiding enemies.
+category: Game Jam 
+description: A fast-paced digging game where you play as a dog digging for bones and avoiding enemies. <a href="https://vincinerated.itch.io/downward-dog">Play here.</a>
 ---
