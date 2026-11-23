@@ -4,5 +4,5 @@ modal-id: 3
 img: drive_with_death.PNG
 alt: image-alt
 category: Game Jam
-description: An arcade driving game where you collect as many lost souls on a highway as you can before you reach your destination. Made in 3 days for a game jam.
+description: An arcade driving game where you collect as many lost souls on a highway as you can before you reach your destination. Made in 3 days for a game jam. </br> <a href="https://vincinerated.itch.io/downward-dog">Click here to play.</a>
 ---
