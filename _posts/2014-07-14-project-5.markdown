@@ -1,11 +1,8 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+img: unity_anim_plugin.PNG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Unity Plugin
+description: A custom animation event system and inspector. Animations can be played in the inspector, and events can be visualized. Events have start and stop times and it supports many kinds of events such as enabling hitboxes, playing sounds, playing effects, and much more.
 ---
