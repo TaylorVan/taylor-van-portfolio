@@ -5,7 +5,7 @@ url: https://taylorvan.github.io/taylor-van-portfolio/
 description: "Taylor Van Dommelen, game and tools programmer."
 keywords: "your keywords, separated by commas"
 skills: "Game and Tools Programmer"
-meta_author: LastName FirstName
+meta_author: Van Dommelen Taylor
 
 # Google webmaster tools
 google_verify:
@@ -25,8 +25,8 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 232526 #80B3FF 
-  primary-rgb: "35,37,38" #"128,179,255"
+  primary: 232526 #232526 
+  primary-rgb: "35,37,38" #"35,37,38"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
