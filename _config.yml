@@ -25,14 +25,14 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 001524 #80B3FF 
-  primary-rgb: "0,21,36" #"128,179,255"
+  primary: c8e1e3 #80B3FF 
+  primary-rgb: "200,225,227" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Taylor Van Dommelen
   location: Location
   social: Around the Web
   credits: Credits
